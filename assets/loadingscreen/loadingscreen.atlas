@@ -1,0 +1,180 @@
+
+loadingscreen.png
+size: 4096, 4096
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+loading
+  rotate: false
+  xy: 1, 3386
+  size: 1200, 675
+  orig: 1200, 675
+  offset: 0, 0
+  index: 1
+loading
+  rotate: false
+  xy: 1, 2709
+  size: 1200, 675
+  orig: 1200, 675
+  offset: 0, 0
+  index: 2
+loading
+  rotate: false
+  xy: 1203, 3386
+  size: 1200, 675
+  orig: 1200, 675
+  offset: 0, 0
+  index: 3
+loading
+  rotate: false
+  xy: 1, 2032
+  size: 1200, 675
+  orig: 1200, 675
+  offset: 0, 0
+  index: 4
+loading
+  rotate: false
+  xy: 1203, 2709
+  size: 1200, 675
+  orig: 1200, 675
+  offset: 0, 0
+  index: 5
+loading
+  rotate: false
+  xy: 2405, 3386
+  size: 1200, 675
+  orig: 1200, 675
+  offset: 0, 0
+  index: 6
+loading
+  rotate: false
+  xy: 1, 1355
+  size: 1200, 675
+  orig: 1200, 675
+  offset: 0, 0
+  index: 7
+loading
+  rotate: false
+  xy: 1203, 2032
+  size: 1200, 675
+  orig: 1200, 675
+  offset: 0, 0
+  index: 8
+loading
+  rotate: false
+  xy: 2405, 2709
+  size: 1200, 675
+  orig: 1200, 675
+  offset: 0, 0
+  index: 9
+loading
+  rotate: false
+  xy: 1, 678
+  size: 1200, 675
+  orig: 1200, 675
+  offset: 0, 0
+  index: 10
+loading
+  rotate: false
+  xy: 1203, 1355
+  size: 1200, 675
+  orig: 1200, 675
+  offset: 0, 0
+  index: 11
+loading
+  rotate: false
+  xy: 2405, 2032
+  size: 1200, 675
+  orig: 1200, 675
+  offset: 0, 0
+  index: 12
+loading
+  rotate: false
+  xy: 1, 1
+  size: 1200, 675
+  orig: 1200, 675
+  offset: 0, 0
+  index: 13
+loading
+  rotate: false
+  xy: 1203, 678
+  size: 1200, 675
+  orig: 1200, 675
+  offset: 0, 0
+  index: 14
+loading
+  rotate: false
+  xy: 2405, 1355
+  size: 1200, 675
+  orig: 1200, 675
+  offset: 0, 0
+  index: 15
+loading
+  rotate: false
+  xy: 1203, 1
+  size: 1200, 675
+  orig: 1200, 675
+  offset: 0, 0
+  index: 16
+loading
+  rotate: false
+  xy: 2405, 678
+  size: 1200, 675
+  orig: 1200, 675
+  offset: 0, 0
+  index: 17
+loading
+  rotate: false
+  xy: 2405, 1
+  size: 1200, 675
+  orig: 1200, 675
+  offset: 0, 0
+  index: 18
+
+loadingscreen2.png
+size: 4096, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+loading
+  rotate: false
+  xy: 1, 1355
+  size: 1200, 675
+  orig: 1200, 675
+  offset: 0, 0
+  index: 19
+loading
+  rotate: false
+  xy: 1, 678
+  size: 1200, 675
+  orig: 1200, 675
+  offset: 0, 0
+  index: 20
+loading
+  rotate: false
+  xy: 1203, 1355
+  size: 1200, 675
+  orig: 1200, 675
+  offset: 0, 0
+  index: 21
+loading
+  rotate: false
+  xy: 1, 1
+  size: 1200, 675
+  orig: 1200, 675
+  offset: 0, 0
+  index: 22
+loading
+  rotate: false
+  xy: 1203, 678
+  size: 1200, 675
+  orig: 1200, 675
+  offset: 0, 0
+  index: 23
+loading
+  rotate: false
+  xy: 2405, 1355
+  size: 1200, 675
+  orig: 1200, 675
+  offset: 0, 0
+  index: 24

@@ -1,0 +1,111 @@
+
+weaponAtlas.png
+size: 512, 128
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+bullet
+  rotate: false
+  xy: 1, 6
+  size: 126, 121
+  orig: 126, 121
+  offset: 0, 0
+  index: -1
+weapon1
+  rotate: false
+  xy: 129, 1
+  size: 64, 27
+  orig: 64, 27
+  offset: 0, 0
+  index: -1
+weapon10
+  rotate: false
+  xy: 327, 102
+  size: 64, 25
+  orig: 64, 25
+  offset: 0, 0
+  index: -1
+weapon11
+  rotate: false
+  xy: 195, 59
+  size: 64, 30
+  orig: 64, 30
+  offset: 0, 0
+  index: -1
+weapon12
+  rotate: false
+  xy: 327, 76
+  size: 64, 24
+  orig: 64, 24
+  offset: 0, 0
+  index: -1
+weapon13
+  rotate: false
+  xy: 419, 63
+  size: 18, 64
+  orig: 18, 64
+  offset: 0, 0
+  index: -1
+weapon14
+  rotate: false
+  xy: 393, 63
+  size: 24, 64
+  orig: 24, 64
+  offset: 0, 0
+  index: -1
+weapon2
+  rotate: false
+  xy: 195, 6
+  size: 64, 24
+  orig: 64, 24
+  offset: 0, 0
+  index: -1
+weapon3
+  rotate: false
+  xy: 261, 48
+  size: 64, 24
+  orig: 64, 24
+  offset: 0, 0
+  index: -1
+weapon4
+  rotate: false
+  xy: 261, 101
+  size: 64, 26
+  orig: 64, 26
+  offset: 0, 0
+  index: -1
+weapon5
+  rotate: false
+  xy: 195, 91
+  size: 64, 36
+  orig: 64, 36
+  offset: 0, 0
+  index: -1
+weapon6
+  rotate: false
+  xy: 129, 30
+  size: 64, 45
+  orig: 64, 45
+  offset: 0, 0
+  index: -1
+weapon7
+  rotate: false
+  xy: 129, 77
+  size: 64, 50
+  orig: 64, 50
+  offset: 0, 0
+  index: -1
+weapon8
+  rotate: false
+  xy: 195, 32
+  size: 64, 25
+  orig: 64, 25
+  offset: 0, 0
+  index: -1
+weapon9
+  rotate: false
+  xy: 261, 74
+  size: 64, 25
+  orig: 64, 25
+  offset: 0, 0
+  index: -1

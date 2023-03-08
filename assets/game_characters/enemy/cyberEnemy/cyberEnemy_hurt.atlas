@@ -1,0 +1,20 @@
+
+cyberEnemy_hurt.png
+size: 64, 64
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+cyberEnemy_hurt
+  rotate: false
+  xy: 1, 1
+  size: 15, 31
+  orig: 15, 31
+  offset: 0, 0
+  index: 1
+cyberEnemy_hurt
+  rotate: false
+  xy: 18, 1
+  size: 15, 31
+  orig: 15, 31
+  offset: 0, 0
+  index: 2

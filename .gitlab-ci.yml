@@ -1,0 +1,39 @@
+image: gradle:alpine
+
+before_script:
+  - GRADLE_USER_HOME="$(pwd)/.gradle"
+  - export GRADLE_USER_HOME
+
+stages:
+  - test
+  - build
+
+test-unit:
+  stage: test
+  only:
+    - main
+  script:
+    - "echo 'Starting test stage'"
+    - ./gradlew test
+  cache:
+    key: "$CI_COMMIT_REF_NAME"
+    policy: pull
+    paths:
+      - build
+      - .gradle
+
+build-project:
+  stage: build
+  needs: [test-unit]
+  only:
+    - main
+  script:
+    - "echo 'Starting build stage'"
+    - ./gradlew clean build
+    - ./gradlew customFatJar
+  cache:
+    key: "$CI_COMMIT_REF_NAME"
+    policy: push
+    paths:
+      - build
+      - .gradle

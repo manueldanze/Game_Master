@@ -1,0 +1,76 @@
+
+cyberEnemy_run.png
+size: 32, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+cyberEnemy_run
+  rotate: false
+  xy: 1, 197
+  size: 15, 32
+  orig: 15, 32
+  offset: 0, 0
+  index: 6
+cyberEnemy_run
+  rotate: false
+  xy: 18, 198
+  size: 13, 31
+  orig: 13, 31
+  offset: 0, 0
+  index: 4
+cyberEnemy_run
+  rotate: false
+  xy: 1, 164
+  size: 15, 31
+  orig: 15, 31
+  offset: 0, 0
+  index: 1
+cyberEnemy_run
+  rotate: false
+  xy: 18, 165
+  size: 13, 31
+  orig: 13, 31
+  offset: 0, 0
+  index: 7
+cyberEnemy_run
+  rotate: false
+  xy: 1, 130
+  size: 14, 32
+  orig: 14, 32
+  offset: 0, 0
+  index: 5
+cyberEnemy_run
+  rotate: false
+  xy: 17, 131
+  size: 14, 31
+  orig: 14, 31
+  offset: 0, 0
+  index: 10
+cyberEnemy_run
+  rotate: false
+  xy: 1, 97
+  size: 13, 31
+  orig: 13, 31
+  offset: 0, 0
+  index: 9
+cyberEnemy_run
+  rotate: false
+  xy: 1, 65
+  size: 13, 30
+  orig: 13, 30
+  offset: 0, 0
+  index: 2
+cyberEnemy_run
+  rotate: false
+  xy: 1, 33
+  size: 13, 30
+  orig: 13, 30
+  offset: 0, 0
+  index: 3
+cyberEnemy_run
+  rotate: false
+  xy: 1, 1
+  size: 13, 30
+  orig: 13, 30
+  offset: 0, 0
+  index: 8

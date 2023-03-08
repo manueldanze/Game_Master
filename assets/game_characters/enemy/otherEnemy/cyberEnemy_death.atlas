@@ -1,0 +1,76 @@
+
+cyberEnemy_death.png
+size: 128, 64
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+cyberEnemy_death
+  rotate: false
+  xy: 1, 32
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: 4
+cyberEnemy_death
+  rotate: false
+  xy: 1, 1
+  size: 15, 29
+  orig: 15, 29
+  offset: 0, 0
+  index: 5
+cyberEnemy_death
+  rotate: false
+  xy: 26, 32
+  size: 22, 31
+  orig: 22, 31
+  offset: 0, 0
+  index: 2
+cyberEnemy_death
+  rotate: false
+  xy: 50, 32
+  size: 22, 31
+  orig: 22, 31
+  offset: 0, 0
+  index: 3
+cyberEnemy_death
+  rotate: false
+  xy: 74, 32
+  size: 15, 31
+  orig: 15, 31
+  offset: 0, 0
+  index: 1
+cyberEnemy_death
+  rotate: false
+  xy: 18, 21
+  size: 35, 9
+  orig: 35, 9
+  offset: 0, 0
+  index: 8
+cyberEnemy_death
+  rotate: false
+  xy: 91, 41
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: 6
+cyberEnemy_death
+  rotate: false
+  xy: 18, 11
+  size: 35, 8
+  orig: 35, 8
+  offset: 0, 0
+  index: 9
+cyberEnemy_death
+  rotate: false
+  xy: 18, 11
+  size: 35, 8
+  orig: 35, 8
+  offset: 0, 0
+  index: 10
+cyberEnemy_death
+  rotate: false
+  xy: 55, 16
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: 7

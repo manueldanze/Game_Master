@@ -1,0 +1,20 @@
+
+meleeDD_hurt.png
+size: 128, 64
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+meleeDD_hurt
+  rotate: false
+  xy: 1, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: 1
+meleeDD_hurt
+  rotate: false
+  xy: 51, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: 2

@@ -1,0 +1,27 @@
+
+rangedDD_hurt.png
+size: 512, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+rangedDD_hurt
+  rotate: false
+  xy: 1, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 1
+rangedDD_hurt
+  rotate: false
+  xy: 259, 131
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 2
+rangedDDnew_hurt
+  rotate: false
+  xy: 1, 67
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1

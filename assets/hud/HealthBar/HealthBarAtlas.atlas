@@ -1,0 +1,132 @@
+
+HealthBarAtlas.png
+size: 2048, 32
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+0hp
+  rotate: false
+  xy: 1, 1
+  size: 105, 15
+  orig: 105, 15
+  offset: 0, 0
+  index: -1
+10hp
+  rotate: false
+  xy: 108, 1
+  size: 105, 15
+  orig: 105, 15
+  offset: 0, 0
+  index: -1
+11hp
+  rotate: false
+  xy: 215, 1
+  size: 105, 15
+  orig: 105, 15
+  offset: 0, 0
+  index: -1
+12hp
+  rotate: false
+  xy: 322, 1
+  size: 105, 15
+  orig: 105, 15
+  offset: 0, 0
+  index: -1
+13hp
+  rotate: false
+  xy: 429, 1
+  size: 105, 15
+  orig: 105, 15
+  offset: 0, 0
+  index: -1
+14hp
+  rotate: false
+  xy: 536, 1
+  size: 105, 15
+  orig: 105, 15
+  offset: 0, 0
+  index: -1
+15hp
+  rotate: false
+  xy: 643, 1
+  size: 105, 15
+  orig: 105, 15
+  offset: 0, 0
+  index: -1
+16hp
+  rotate: false
+  xy: 750, 1
+  size: 105, 15
+  orig: 105, 15
+  offset: 0, 0
+  index: -1
+17hp
+  rotate: false
+  xy: 857, 1
+  size: 105, 15
+  orig: 105, 15
+  offset: 0, 0
+  index: -1
+1hp
+  rotate: false
+  xy: 964, 1
+  size: 105, 15
+  orig: 105, 15
+  offset: 0, 0
+  index: -1
+2hp
+  rotate: false
+  xy: 1071, 1
+  size: 105, 15
+  orig: 105, 15
+  offset: 0, 0
+  index: -1
+3hp
+  rotate: false
+  xy: 1178, 1
+  size: 105, 15
+  orig: 105, 15
+  offset: 0, 0
+  index: -1
+4hp
+  rotate: false
+  xy: 1285, 1
+  size: 105, 15
+  orig: 105, 15
+  offset: 0, 0
+  index: -1
+5hp
+  rotate: false
+  xy: 1392, 1
+  size: 105, 15
+  orig: 105, 15
+  offset: 0, 0
+  index: -1
+6hp
+  rotate: false
+  xy: 1499, 1
+  size: 105, 15
+  orig: 105, 15
+  offset: 0, 0
+  index: -1
+7hp
+  rotate: false
+  xy: 1606, 1
+  size: 105, 15
+  orig: 105, 15
+  offset: 0, 0
+  index: -1
+8hp
+  rotate: false
+  xy: 1713, 1
+  size: 105, 15
+  orig: 105, 15
+  offset: 0, 0
+  index: -1
+9hp
+  rotate: false
+  xy: 1820, 1
+  size: 105, 15
+  orig: 105, 15
+  offset: 0, 0
+  index: -1

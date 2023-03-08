@@ -1,0 +1,125 @@
+
+cooldownAtlas.png
+size: 256, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+0p
+  rotate: false
+  xy: 1, 397
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+100p
+  rotate: false
+  xy: 1, 331
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+12p
+  rotate: false
+  xy: 67, 397
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+16p
+  rotate: false
+  xy: 1, 265
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+20p
+  rotate: false
+  xy: 67, 331
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+24p
+  rotate: false
+  xy: 133, 397
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+28p
+  rotate: false
+  xy: 1, 199
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+32p
+  rotate: false
+  xy: 67, 265
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+36p
+  rotate: false
+  xy: 133, 331
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+40p
+  rotate: false
+  xy: 1, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+44p
+  rotate: false
+  xy: 67, 199
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+48p
+  rotate: false
+  xy: 133, 265
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+4p
+  rotate: false
+  xy: 1, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+52p
+  rotate: false
+  xy: 67, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+56p
+  rotate: false
+  xy: 133, 199
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+60p
+  rotate: false
+  xy: 1, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+8p
+  rotate: false
+  xy: 67, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

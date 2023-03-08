@@ -1,0 +1,48 @@
+
+cyberEnemy_idle.png
+size: 128, 64
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+cyberEnemy_idle
+  rotate: false
+  xy: 1, 1
+  size: 15, 32
+  orig: 15, 32
+  offset: 0, 0
+  index: 2
+cyberEnemy_idle
+  rotate: false
+  xy: 18, 1
+  size: 15, 32
+  orig: 15, 32
+  offset: 0, 0
+  index: 3
+cyberEnemy_idle
+  rotate: false
+  xy: 35, 1
+  size: 15, 32
+  orig: 15, 32
+  offset: 0, 0
+  index: 4
+cyberEnemy_idle
+  rotate: false
+  xy: 52, 2
+  size: 15, 31
+  orig: 15, 31
+  offset: 0, 0
+  index: 1
+cyberEnemy_idle
+  rotate: false
+  xy: 69, 2
+  size: 15, 31
+  orig: 15, 31
+  offset: 0, 0
+  index: 5
+cyberEnemy_idle
+  rotate: false
+  xy: 86, 2
+  size: 15, 31
+  orig: 15, 31
+  offset: 0, 0
+  index: 6
