@@ -35,7 +35,7 @@ The game network system is a client-server model with one player hosting the ser
 > Execute following commands to create a executable .jar
 - Neccessary: build project and a fatJar executable `./gradlew clean build; ./gradlew customFatJar`
 - Optional: run tests `./gradlew clean test`
-
+>> Make sure Java 18.0.1 is installed and set as environment variable
 <br>
 
 #### Run with executable .jar: Start multiplayer round with friends
@@ -52,20 +52,7 @@ The game network system is a client-server model with one player hosting the ser
 - You need to run two game instances of the game, run the executable two times
 - Click through menu till you are prompted to choose "Host" or "Join"
 - Choose "Host" on one of the instances and "Join" on the other instance
-
-<br>
-
-#### Run in IDE: Start multiplayer round with friends
-- All players must be connected to the same network
-- Open project in IntelliJ IDEA (only tested on IntelliJ, but other IDEs could also work)
-- Run `DesktopGameDriver.main()`
-
-#### Run in IDE: Simulate a multiplayer round on a single machine
-- Open project in IntelliJ IDEA (only tested on IntelliJ, but other IDEs could also work)
-- You need to run two game intances of `DesktopGameDriver.main()` 
-- - *First game instance*: right click on `DesktopGameDriver.main()` > More Run/Debug > Run with Coverage
-- - *Second game instance*: Run `DesktopGaDriver.main()` like normal
-
+- 
 <br>
     
 #### Controls
